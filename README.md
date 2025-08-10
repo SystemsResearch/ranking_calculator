@@ -59,6 +59,6 @@ The entire point of the repository is for anyone to be able download the code, p
 
 ## Release notes
 
-v0.2 - Numerical convertion brought earlier: faster, and allows for some input validation.
+v0.2 - Numerical conversion brought earlier: faster, and allows for some input validation.
 
 v0.1 - Initial implementation.
