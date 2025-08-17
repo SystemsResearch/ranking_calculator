@@ -2,6 +2,8 @@
 
 Exploration of future World Rugby rankings based on game result predictions.
 
+This is discussed in a substack post here: https://dimitriperrin.substack.com/p/the-race-for-ranking-points-and-a
+
 ## Input files
 
 We need to input files: current rankings, and a list of fixtures.
@@ -59,6 +61,8 @@ The entire point of the repository is for anyone to be able download the code, p
 
 ## Release notes
 
-v0.2 - Numerical conversion brought earlier: faster, and allows for some input validation.
+v0.21 - Added the results from round 1 of the Rugby Championship. This is the release used for this [substack post on the Wallabies win at Ellis Park](https://dimitriperrin.substack.com/p/a-win-for-the-ages-but-it-does-not).
+
+v0.2 - Numerical conversion brought earlier: faster, and allows for some input validation. This is the release used for [the first substack post](https://dimitriperrin.substack.com/p/the-race-for-ranking-points-and-a).
 
 v0.1 - Initial implementation.
