@@ -3,17 +3,23 @@ South Africa	Australia	home	standard	22	38
 Argentina	New Zealand	home	standard	24	41
 # 								
 # Pacific Nations Cup week 1								
-Canada	USA	home	standard	0.05	0.12	0.01	0.41	0.41
-Tonga	Samoa	home	standard	0.11	0.21	0.01	0.41	0.26
+Canada	USA	home	standard	34	20
+Tonga	Samoa	home	standard	30	16
 # 								
 # TRC week 2								
-South Africa	Australia	home	standard	0.21	0.51	0.01	0.21	0.06
-Argentina	New Zealand	home	standard	0.21	0.43	0.01	0.25	0.1
+South Africa	Australia	home	standard	30	22
+Argentina	New Zealand	home	standard	29	23
 # 								
+# RWC qualifier
+Uruguay	Paraguay	home	standard	78	10
+# 
 # Pacific Nations Cup week 2								
 Fiji	Tonga	home	standard	0.32	0.52	0.01	0.11	0.04
 Japan	Canada	home	standard	0.36	0.55	0.01	0.07	0.01
 # 								
+# RWC qualifier
+Chile	Uruguay	home	standard	0.17	0.37	0	0.34	0.12
+# 
 # Pacific Nations Cup week 3								
 Samoa	Fiji	home	standard	0.15	0.31	0.01	0.29	0.24
 USA	Japan	home	standard	0.15	0.41	0.01	0.36	0.07
